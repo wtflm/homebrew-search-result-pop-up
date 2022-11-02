@@ -9,4 +9,4 @@ To use the script, you need
 	- I recommend [Violentmonkey](https://violentmonkey.github.io/)
 2. To install the script, click on one of these:
 	- [Install from GitHub](https://github.com/wtflm/homebrew-search-result-pop-up/raw/main/script.user.js)
-	- Install from Greasy Fork
+	- [Install from Greasy Fork](https://greasyfork.org/scripts/454124-homebrew-search-result-pop-up/code/Homebrew%20search%20result%20pop-up.user.js)
