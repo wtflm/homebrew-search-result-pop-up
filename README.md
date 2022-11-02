@@ -5,8 +5,8 @@ There's [a search plugin for brew.sh](https://mycroftproject.com/install.html?id
 
 ## Installation & usage
 To use the script, you need
-- A userscript extension for your web browser
+1. A userscript extension for your web browser, if you don't already have one
 	- I recommend [Violentmonkey](https://violentmonkey.github.io/)
-- To install the script, click on one of these:
-	- Install from GitHub
+2. To install the script, click on one of these:
+	- [Install from GitHub](https://github.com/wtflm/homebrew-search-result-pop-up/raw/main/script.user.js)
 	- Install from Greasy Fork
